@@ -1,0 +1,75 @@
+[
+    {
+      "title": "Essay on Climate Change",
+      "description": "Write a comprehensive essay on the impact of climate change on the environment.",
+      "marks": 50,
+      "thumbnailURL": "https://img.freepik.com/free-vector/save-planet-concept-with-people-analyzing-earth_23-2148526185.jpg?w=996&t=st=1699120152~exp=1699120752~hmac=40b40403b258e857c106c82c718ff6d1dd1bca06fd7a1d371d7d4d0a9c18f02d",
+      "difficulty": "medium",
+      "dueDate": "2023-11-10"
+    },
+    {
+      "title": "Math Quiz",
+      "description": "Solve a set of challenging math problems.",
+      "marks": 30,
+      "thumbnailURL": "https://img.freepik.com/free-vector/chalkboard-with-math-elements_1411-88.jpg?w=900&t=st=1699120261~exp=1699120861~hmac=2d7f6658a6f0544e8b4828f75d9068d104fef0b1553d067e9f15cd53792c87b1",
+      "difficulty": "hard",
+      "dueDate": "2023-11-15"
+    },
+    {
+      "title": "Literature Analysis",
+      "description": "Analyze a classic novel of your choice and provide a detailed review.",
+      "marks": 40,
+      "thumbnailURL": "https://img.freepik.com/free-photo/top-view-coworkers-analyzing-diagrams_1098-345.jpg?w=996&t=st=1699120333~exp=1699120933~hmac=3db2779093bbc1c98ccdc7646328d92e4b146cafca8359fec71de3ad563627ba",
+      "difficulty": "medium",
+      "dueDate": "2023-11-12"
+    },
+    {
+      "title": "Science Experiment",
+      "description": "Conduct a scientific experiment and submit your findings.",
+      "marks": 60,
+      "thumbnailURL": "https://img.freepik.com/free-vector/student-with-experiment-chemistry-items_1308-56042.jpg?w=1060&t=st=1699120384~exp=1699120984~hmac=5ed6d5019d4031eb3f0034381774d2893b00130f0d9f462c389e7c7c1ce8b545",
+      "difficulty": "easy",
+      "dueDate": "2023-11-20"
+    },
+    {
+      "title": "History Research Paper",
+      "description": "Write a research paper on a significant historical event.",
+      "marks": 45,
+      "thumbnailURL": "https://img.freepik.com/free-photo/view-hand-writing-journal-with-world-travel-map-compass_23-2149460007.jpg?w=996&t=st=1699120477~exp=1699121077~hmac=ffddf99915d91919a4f30ad6fff03114cd3b9ee749f5bbcc0416f0d639730a87",
+      "difficulty": "hard",
+      "dueDate": "2023-11-14"
+    },
+    {
+      "title": "Art Portfolio",
+      "description": "Create an art portfolio showcasing your artistic skills.",
+      "marks": 35,
+      "thumbnailURL": "https://img.freepik.com/free-vector/hand-drawn-portfolio-template_52683-79648.jpg?w=1060&t=st=1699120539~exp=1699121139~hmac=c5a7b9c3fd8ad07308c42aa55f41bd083aa3847fd480d1bf9cb8aab957b189a9",
+      "difficulty": "medium",
+      "dueDate": "2023-11-17"
+    },
+    {
+      "title": "Coding Challenge",
+      "description": "Solve coding problems and submit your solutions.",
+      "marks": 70,
+      "thumbnailURL": "https://img.freepik.com/free-vector/flat-hand-drawn-web-developers-illustration_23-2148842972.jpg?w=996&t=st=1699120569~exp=1699121169~hmac=6f5e4640becc078ac904fece7c7a622350e30d1506e438a2a0c7e5399ced997d",
+      "difficulty": "hard",
+      "dueDate": "2023-11-18"
+    },
+    {
+      "title": "Foreign Language Presentation",
+      "description": "Prepare and deliver a presentation in a foreign language.",
+      "marks": 55,
+      "thumbnailURL": "https://img.freepik.com/free-psd/flat-design-language-learning-template_23-2149905293.jpg?w=1060&t=st=1699120625~exp=1699121225~hmac=3ae9575445a79a66c598a4b1e0fea272cce6f2dfdc8b94156d78eff0fafa3ef9",
+      "difficulty": "medium",
+      "dueDate": "2023-11-16"
+    },
+    {
+      "title": "Music Composition",
+      "description": "Compose an original music piece and provide a recording.",
+      "marks": 40,
+      "thumbnailURL": "https://img.freepik.com/free-vector/world-music-day-gradient-background_23-2149397900.jpg?w=996&t=st=1699120692~exp=1699121292~hmac=51e4df2c04f1f5b3ee182b493f9776047dbae28eadde47026cec6733c1e965d5",
+      "difficulty": "easy",
+      "dueDate": "2023-11-19"
+    }
+  ]
+  
