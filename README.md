@@ -42,6 +42,18 @@
 <li>in home page</li>
 <p>every user can ask any question to authority.</p>
 
+## Tools
+<li>HTML</li>
+<li>CSS</li>
+<li>React js</li>
+<li>Tailwindcss</li>
+<li>Daisy ui</li>
+<li>Backend(mongodb)</li>
+<li>Express.js</li>
+<li>Authentication(fireBase)</li>
+<li>Client site host(Firebase)</li>
+<li>Server site host (vercel) </li>
+
 
 
 
